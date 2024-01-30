@@ -1,4 +1,6 @@
-public class Personaldetails { public static void main(String[] args) {
+public class Personaldetails {
+    public static void main(String[] args)
+    {
     // Personal details
     String name = "Faseeh Ahmed";
     String address = "11 Savile Place,Leeds";
